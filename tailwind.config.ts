@@ -14,7 +14,6 @@ const config: Config = {
         md: "calc(var(--radius) - 2px)",
         sm: "calc(var(--radius) - 4px)",
       },
-      // Custom colors have been removed to resolve the error
     },
   },
   plugins: [],
